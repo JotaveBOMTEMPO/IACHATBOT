@@ -1,0 +1,18 @@
+{
+  "name": "backendpetshop",
+  "version": "1.0.0",
+  "description": "Backend para integrar ao dialogFlow",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.2",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
